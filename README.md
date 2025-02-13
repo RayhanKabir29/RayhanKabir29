@@ -34,7 +34,7 @@ Portfolio: YourPortfolio.com
 
 LinkedIn: YourLinkedIn
 
-GitHub: YourGitHub
+GitHub: https://github.com/RayhanKabir29
 
 Twitter: YourTwitter
 

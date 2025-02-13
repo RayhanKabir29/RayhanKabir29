@@ -1,5 +1,42 @@
-### Hi there 👋, My Name is Rayhan Kabir
+Hi there! 👋
 
-I'm Rayhan from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as working in WordPress. I also enjoy wireframing, UI, UX, and design in general.
+🚀 About Me
 
-Skills: Next,React, Ant,Tailwind,Js,HTML,CSS
+I'm a passionate Front-End Developer with 2 years of experience working with React and Next.js. I love building high-performance, user-friendly web applications and continually learning new technologies to improve my craft.
+
+🛠 Tech Stack
+
+Languages: JavaScript, TypeScript
+
+Frontend Frameworks: React.js, Next.js
+
+Styling: Tailwind CSS, Styled Components, Sass
+
+State Management: Redux,  React Context API
+
+Build Tools: Webpack, Vite
+
+Version Control: Git, GitHub
+
+📌 Projects
+
+Here are a few projects I've worked on:
+
+Project 1 - Brief description
+
+Project 2 - Brief description
+
+Project 3 - Brief description
+
+📫 Let's Connect
+
+Portfolio: YourPortfolio.com
+
+LinkedIn: YourLinkedIn
+
+GitHub: YourGitHub
+
+Twitter: YourTwitter
+
+Thanks for stopping by! Happy coding! 🚀
+

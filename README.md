@@ -18,25 +18,11 @@ Build Tools: Webpack, Vite
 
 Version Control: Git, GitHub
 
-📌 Projects
-
-Here are a few projects I've worked on:
-
-Project 1 - Brief description
-
-Project 2 - Brief description
-
-Project 3 - Brief description
-
 📫 Let's Connect
 
-Portfolio: YourPortfolio.com
-
-LinkedIn: YourLinkedIn
+LinkedIn: https://www.linkedin.com/in/rayhan-kabir29/
 
 GitHub: https://github.com/RayhanKabir29
-
-Twitter: YourTwitter
 
 Thanks for stopping by! Happy coding! 🚀
 
